@@ -9,3 +9,10 @@ keep in mind that this is mostly just a personal storage, no proper documentatio
 - one thing to note is that this is my first project, and its not meant to be anything
 - the project was almost entirely made by AI, so there'll definitely be some bugs here and there
 - the launcher is not optimized !, with GPU reaching 40% when opened, keep that in mind!
+
+to start, do ``quickshell``
+
+to open up the launcher, you can do:
+``quickshell:launcher``
+which you can add to hyprland keybinds, with something like super + space:
+`` bind = SUPER, Space, global, quickshell:launcher``
