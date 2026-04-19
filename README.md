@@ -13,6 +13,9 @@ keep in mind that this is mostly just a personal storage, no proper documentatio
 to start, do ``quickshell``
 
 to open up the launcher, you can do:
+
 ``quickshell:launcher``
+
 which you can add to hyprland keybinds, with something like super + space:
+
 `` bind = SUPER, Space, global, quickshell:launcher``
